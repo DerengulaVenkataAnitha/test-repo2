@@ -1,0 +1,13 @@
+<<<<<<< HEAD
+public class()
+{
+ console.writeline("from dev1"));
+ c.w("mdf"):
+}
+=======
+public class() #from dev2
+{ 
+	console.writeline("from dev2")
+
+} #from dev2
+>>>>>>> f092c038397795d135f7acf2315c9c29faac2b22
